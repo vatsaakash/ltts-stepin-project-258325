@@ -17,6 +17,11 @@ The user has 9 (nine) life in the entire game.
 
 
 ## References 
+
+- [Understanding the Working of Hangman](https://stackoverflow.com/questions/22877160/programming-hangman-in-c#:~:text=Store%20the%20word%20(single%20word,to%20figure%20out%20the%20word))
+
+- [Basic Idea of Hangman](https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c)
+- [Git hub repository which helped me understand the project](https://github.com/VITAL-Club/hangman-game)
 - [Compiling and running multiple source C++ code files in repl.it](https://www.youtube.com/watch?v=aTq4k_2GZck "Compiling and running multiple source C++ code files in repl.it youtube video")
 
 
