@@ -1,6 +1,6 @@
 # Hangman
 
-This is a Command Line Based Hangman Game. Developed in C language.
+This is a Command Line Based Hangman Game, developed using C programming.
 
 ## Usage 
 
@@ -13,3 +13,7 @@ The user will get some chance to guess the word, if the guessed word is coreect 
 If wrong letter is given in the input then the program starts hanging the Hangman and also shows how many Lives are left.
 
 The user has 9 (nine) life in the entire game.
+
+
+### References ###
+
