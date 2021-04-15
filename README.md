@@ -23,7 +23,3 @@ The user has 9 (nine) life in the entire game.
 
 - [Basic Idea of Hangman](https://www.usna.edu/Users/cs/roche/courses/f20ic210/notes/06/files.php?f=hangman.c)
 - [Git hub repository which helped me understand the project](https://github.com/VITAL-Club/hangman-game)
-- [Compiling and running multiple source C++ code files in repl.it](https://www.youtube.com/watch?v=aTq4k_2GZck "Compiling and running multiple source C++ code files in repl.it youtube video")
-
-
-
