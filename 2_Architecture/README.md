@@ -1,12 +1,12 @@
 # Architecture
 
-# Behavior Diagrams
+## Behavior Diagrams
 
 |Behavior Diagrams1|Behavior Diagrams2|
 |:--:|:--:|
 |![Behavior Diagrams1](img/BehaviorDiagrams1.png)|![Behavior Diagrams2](img/BehaviorDiagrams2.png)|
 
-# Structure Diagrams
+## Structure Diagrams
 
 |Structure Diagrams1|Structure Diagrams2|
 |:--:|:--:|
