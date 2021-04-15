@@ -4,13 +4,13 @@
 
 |Behavior Diagrams1|Behavior Diagrams2|
 |:--:|:--:|
-|![Behavior Diagrams1](behavior\ Diagrams/BehaviorDiagrams1.png)|![Behavior Diagrams2](behavior\ Diagrams/BehaviorDiagrams2.png)|
+|![Behavior Diagrams1](img/BehaviorDiagrams1.png)|![Behavior Diagrams2](img/BehaviorDiagrams2.png)|
 
 # Structure Diagrams
 
 |Structure Diagrams1|Structure Diagrams2|
 |:--:|:--:|
-|![Structure Diagrams1](structure\ Diagrams/structureDiagrams1.png)|![Structure Diagrams2](structure\ Diagrams/structureDiagrams2.png)|
+|![Structure Diagrams1](img/structureDiagrams1.png)|![Structure Diagrams2](img/structureDiagrams2.png)|
 
 
 
