@@ -1,6 +1,6 @@
 # Behavior Diagrams
-![](Behavior Diagrams1.png)
-![](Behavior Diagrams2.png)
+![BD 1](Behavior Diagrams1.png)
+![BD 2](Behavior Diagrams2.png)
 
 
 
