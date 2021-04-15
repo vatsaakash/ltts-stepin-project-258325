@@ -10,7 +10,7 @@
  */
 #include <stdio.h>
 #include <stdlib.h>
-#define pf pf
+#define pf printf
 
 /**
  * @brief 
