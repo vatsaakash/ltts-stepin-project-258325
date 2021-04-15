@@ -1,5 +1,5 @@
 [![cppcheck-action](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml)
-[![Valgrind](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/Valgrind.yml/badge.svg?branch=main)](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/Valgrind.yml)
+[![Valgrind](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml)
 
 
 # Hangman
