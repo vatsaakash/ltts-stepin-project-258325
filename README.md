@@ -1,3 +1,6 @@
+[![cppcheck-action](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml)
+
+
 # Hangman
 
 This is a Command Line Based Hangman Game, developed using C programming.
