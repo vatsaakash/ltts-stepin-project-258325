@@ -1,4 +1,6 @@
 [![cppcheck-action](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsaakash/ltts-stepin-project-258325/actions/workflows/cppcheck.yml)
+![code quality](https://www.code-inspector.com/project/22334/score/svg)
+![code grade](https://www.code-inspector.com/project/22334/status/svg)
 
 
 
